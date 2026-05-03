@@ -34,7 +34,7 @@ In optimization, the algorithm explores the solution search space by accepting b
 
 This project applies Simulated Annealing to both:
 
-- **Maximization problems**, such as the Knapsack Problem and benchmark-function optimization.
+- **Maximization problems**, such as the Knapsack Problem.
 - **Minimization problems**, such as the Traveling Salesman Problem and the Vehicle Routing Problem with Time Windows.
 
 ---
