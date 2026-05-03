@@ -8,7 +8,7 @@ The implemented problems include:
 2. 0/1 Knapsack Problem
 3. Traveling Salesman Problem (TSP)
 4. Vehicle Routing Problem with Time Windows (VRPTW)
-
+* This is not our focus but it put anyways :)
 ---
 
 ## Table of Contents
