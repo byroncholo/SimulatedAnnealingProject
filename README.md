@@ -23,12 +23,6 @@ The implemented problems include:
   - [2. Knapsack Problem](#2-knapsack-problem)
   - [3. Traveling Salesman Problem](#3-traveling-salesman-problem)
   - [4. Vehicle Routing Problem with Time Windows](#4-vehicle-routing-problem-with-time-windows)
-- [Requirements](#requirements)
-- [Compilation](#compilation)
-- [Execution](#execution)
-- [Datasets](#datasets)
-- [Output](#output)
-- [Author](#author)
 
 ---
 
