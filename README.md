@@ -28,9 +28,9 @@ The implemented problems include:
 
 ## Project Description
 
-The goal of this project is to study and implement the **Simulated Annealing algorithm** as a general-purpose optimization method. Simulated Annealing is inspired by the physical annealing process, where a material is heated and then slowly cooled to reach a stable low-energy configuration.
+The goal of this project is to study and implement the **Simulated Annealing algorithm** as a general optimization method. SA is inspired by the physical annealing process, where a material is heated and then slowly cooled to reach a stable low-energy configuration.
 
-In optimization, the algorithm explores the solution space by accepting better solutions and, with a certain probability, also accepting worse solutions. This allows the algorithm to escape local optima and continue searching for better global solutions.
+In optimization, the algorithm explores the solution search space by accepting better solutions and, with a certain probability, also accepting worse solutions. This allows the algorithm to escape local optima and continue searching for better global solutions.
 
 This project applies Simulated Annealing to both:
 
