@@ -1,10 +1,10 @@
 # Simulated Annealing Project
 
-This repository contains several implementations of the **Simulated Annealing (SA)** metaheuristic applied to different optimization problems. The project is written in **C++** and focuses on both continuous and combinatorial optimization problems.
+This repository contains several implementations of the **Simulated Annealing (SA)** metaheuristic applied to different optimization problems. The project is written in **C++**.
 
 The implemented problems include:
 
-1. Benchmark function optimization
+1. Benchmark function optimization *
 2. 0/1 Knapsack Problem
 3. Traveling Salesman Problem (TSP)
 4. Vehicle Routing Problem with Time Windows (VRPTW)
