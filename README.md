@@ -10,7 +10,7 @@ The implemented problems include:
 4. Vehicle Routing Problem with Time Windows (VRPTW)
 
    
-** This is not our focus but it put anyways :)
+* This is not our focus but it put anyways :)
 ---
 
 ## Table of Contents
